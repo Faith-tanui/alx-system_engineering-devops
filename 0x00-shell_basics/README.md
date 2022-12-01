@@ -1,2 +1,2 @@
 pwd
- #Displays the absolute path name of the current working directory
+#Displays the absolute path name of the current working directory
