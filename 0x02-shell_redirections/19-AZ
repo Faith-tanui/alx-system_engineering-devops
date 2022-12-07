@@ -1,2 +1,0 @@
-#!/bin/bash
-grep tr A Z | tr c e
